@@ -9,4 +9,5 @@ the 8s script delete file from directory
 the 9s script delete directory
 the 10s script move to previous directory
 the 11s script show all list in three directory in the same time
-the 11s script show file information
+the 12s script show file information
+the 13s script create a syomblic link file 
