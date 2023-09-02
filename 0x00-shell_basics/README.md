@@ -7,3 +7,4 @@ the 6s script creates an empety directory in temp
 the 7s script move file form directory to another
 the 8s script delete file from directory
 the 9s script delete directory
+the 10s script move to previous directory
