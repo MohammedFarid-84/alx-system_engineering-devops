@@ -12,3 +12,4 @@ the 11s script show all list in three directory in the same time
 the 12s script show file information
 the 13s script create a syomblic link file 
 the 14s script  copy all html file in current directory to it's parent directory but it the file is newor or missing
+the 18s script show list of current derictory by special format 
