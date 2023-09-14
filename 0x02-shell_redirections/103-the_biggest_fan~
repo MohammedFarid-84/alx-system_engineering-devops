@@ -1,0 +1,2 @@
+#!/bin/bash
+sort | cut -f 1 | uniq -c | awk '!x[$2]++' | sort -nr | sed 's/^ *//' | cut -d ' ' -f 2-
