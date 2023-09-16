@@ -3,3 +3,4 @@
 3 count the chunks of path variables
 4 show the enviroment variables
 5 show all global and local variables and functions
+11 for convert binary number to dismal number
