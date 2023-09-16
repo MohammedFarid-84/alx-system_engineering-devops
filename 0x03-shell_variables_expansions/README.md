@@ -4,3 +4,4 @@
 4 show the enviroment variables
 5 show all global and local variables and functions
 11 for convert binary number to dismal number
+12 combain cople charecters
