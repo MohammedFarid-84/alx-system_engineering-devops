@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | grep -o ":" | grep -v "^[[:space:]]*$" | wc -l
+echo $PATH | tr ":" "\n" | grep -v "^[[:space:]]*$" | wc -l
