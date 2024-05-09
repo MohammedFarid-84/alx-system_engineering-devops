@@ -1,5 +1,4 @@
 ## create new file and set it's attributes.
-## node define a localhost to work space.
 
 file {  '/tmp/school':
   ensure  => 'present',
