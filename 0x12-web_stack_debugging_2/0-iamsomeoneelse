@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 sudo su - 
-whoami
-exit
+user_name = $(whoami)
+echo $user_name
